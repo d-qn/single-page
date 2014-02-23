@@ -24,8 +24,8 @@ a.brand img {
 }
 #profile p {
 	color:#fff;
-	font-size:18px;
-	line-height: 35px;
+	font-size:16px;
+	line-height: 28px;
 	margin-top: 30px;
 }
 #profile .container .span5 {
@@ -34,12 +34,12 @@ a.brand img {
 a.hire-me {
 	display: inline-block;
  *display: inline;
-	padding:20px 60px;
+	padding:15px 40px;
 	background:#39d084;
 	color:#fff;
 	text-transform:uppercase;
-	font-size:26px;
-	margin:20px 0;
+	font-size:20px;
+	margin:10px 0;
 	-webkit-border-radius: 40px;
 	-moz-border-radius: 40px;
 	border-radius: 40px;
@@ -58,7 +58,7 @@ ul.social-icons {
 ul.social-icons li {
 	list-style:none;
 	display:inline-block;
-	margin:10px;
+	margin:25px;
 }
 ul.social-icons li:first-child {
 	margin-left:0;
@@ -79,7 +79,7 @@ ul.social-icons li a:hover {
 	padding:47px 0;
 }
 #skills .ps, #skills .ai, #skills .html, #skills .css {
-	padding:25px;
+	padding:15px;
 	width:100px;
 	height:100px;
 	-webkit-border-radius: 50%;
@@ -88,10 +88,10 @@ ul.social-icons li a:hover {
 	text-align:center;
 	border:8px solid #203748;
 	float:right;
-	-webkit-transition: all 0.2s linear;
-	-moz-transition: all 0.2s linear;
-	-o-transition: all 0.2s linear;
-	transition: all 0.2s linear;
+	-webkit-transition: all 0.1s linear;
+	-moz-transition: all 0.1s linear;
+	-o-transition: all 0.1s linear;
+	transition: all 0.1s linear;
 }
 #skills .ps {
 	background:#30a5dc;
@@ -110,7 +110,7 @@ ul.social-icons li a:hover {
 }
 #skills .ps h3, #skills .ai h3, #skills .html h3, #skills .css h3 {
 	color:#fff;
-	font-size: 3.4em;
+	font-size: 1.5em;
 	font-weight: normal;
 	line-height: 80px;
 }
