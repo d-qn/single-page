@@ -12,11 +12,13 @@ a.brand img {
 #profile h2, #skills h2, #work h2, #resume h2 {
 	font-weight:normal;
 	color: #39D084;
+    font-size: 20px;
 }
 /***** Profile *****/
 	#profile h1 {
 	color:#39d084;
 	font-weight: normal;
+    font-size: 1.8em;
 }
 #profile h3 {
 	color:#fff;
@@ -110,9 +112,9 @@ ul.social-icons li a:hover {
 }
 #skills .ps h3, #skills .ai h3, #skills .html h3, #skills .css h3 {
 	color:#fff;
-	font-size: 1.5em;
+	font-size: 1em;
 	font-weight: normal;
-	line-height: 80px;
+	line-height: 60px;
 }
 #skills .html h3, #skills .css h3 {
 	font-size: 2.2em;
